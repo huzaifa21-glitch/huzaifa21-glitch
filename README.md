@@ -18,7 +18,7 @@
   
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa21-glitch&" alt="huzaifa21-glitch" />
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa21-glitch&show_icons=true&locale=en" alt="huzaifa21-glitch" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=huzaifa21-glitch&show_icons=true&locale=en" alt="huzaifa21-glitch" /> -->
 </p>
 
 <h3 align="center">Frameworks and Libraries</h3>
