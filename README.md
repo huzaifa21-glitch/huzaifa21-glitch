@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer dedicated to creating captivating experiences.</h3>
 
 - 🌱 I’m currently learning **Docker and Swift**
-- 📫 How to reach me: **huzbuk@gmail.com**
+- 📫 Reach me at: **huzbuk@gmail.com**
 - 📄 Learn about my experiences [here](https://drive.google.com/file/d/1viUUdZaDYKFwxr95L0Fu_jbS5GQfL7T2/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
