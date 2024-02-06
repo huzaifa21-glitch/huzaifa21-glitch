@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Huzaifa Bukhari</h1>
 <h3 align="center">A passionate software engineer dedicated to creating captivating experiences.</h3>
 
-- 🌱 I’m currently learning **Docker and Swift**
+- 🌱 I’m currently learning **Docker and Vue.js**
 - 📫 Reach me at: **huzbuk@gmail.com**
 - 📄 Learn about my experiences [here](https://drive.google.com/file/d/1viUUdZaDYKFwxr95L0Fu_jbS5GQfL7T2/view?usp=sharing)
 
