@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker and Vue.js**
 - 📫 Reach me at: **huzbuk@gmail.com**
-- 📄 Learn about my experiences [here](https://drive.google.com/file/d/1viUUdZaDYKFwxr95L0Fu_jbS5GQfL7T2/view?usp=sharing)
+- 📄 Learn about my experiences [here](https://drive.google.com/file/d/12yB4q2Svszy8_e2mD9azz7wWN19XSMF4/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
