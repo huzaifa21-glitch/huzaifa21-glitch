@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Huzaifa Bukhari</h1>
 <h3 align="center">A passionate software engineer dedicated to creating captivating experiences.</h3>
-
-- 🌱 I’m currently learning **Docker and Vue.js**
+- 🔭 I’m currently working on [OpenAI Whisper](https://github.com/openai/whisper)
+- 🌱 I’m currently learning **Docker and Docker**
 - 📫 Reach me at: **huzbuk@gmail.com**
 - 📄 Learn about my experiences [here](https://drive.google.com/file/d/1q8cZrs0bOFjURXJUSzbS0RiZTsAdfDTY/view?usp=sharing)
 
