@@ -12,14 +12,7 @@
   <a href="https://instagram.com/huzaifa.bukhari_" target="blank"><img align="center" src="https://img.shields.io/badge/huzaifa.bukhari-%23ED1944?style=flat&logo=instagram&logoColor=%23FFFFFF&color=%23ED1944" alt="huzaifa.bukhari_" height="30" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa21-glitch&show_icons=true&locale=en&layout=compact" alt="huzaifa21-glitch" />
-</p>
-  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa21-glitch&" alt="huzaifa21-glitch" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=huzaifa21-glitch&show_icons=true&locale=en" alt="huzaifa21-glitch" /> -->
-</p>
+
 
 <h3 align="center">Frameworks and Libraries</h3>
 <p align="center">
