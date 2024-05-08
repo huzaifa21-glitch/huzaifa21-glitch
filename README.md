@@ -1,40 +1,22 @@
-<h1 align="center">Hi 👋, I'm Syed Huzaifa Bukhari</h1>
-<h3 align="center">A passionate software engineer dedicated to creating captivating experiences.</h3>
-
-- 🌱 I’m currently learning **Docker and Vue.js**
-- 📫 Reach me at: **huzbuk@gmail.com**
-- 📄 Learn about my experiences [here](https://drive.google.com/file/d/1q8cZrs0bOFjURXJUSzbS0RiZTsAdfDTY/view?usp=sharing)
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/huzbuk" target="blank"><img align="center" src="https://img.shields.io/badge/huzbuk-%233776AB?style=flat&logo=x&logoColor=%23fff&color=%23000000" alt="huzbuk" height="30" /></a>
-  <a href="https://linkedin.com/in/huzaifa-bukhari-link" target="blank"><img align="center" src="https://img.shields.io/badge/huzaifa--bukhari-%233776AB?style=flat&logo=linkedin&logoColor=%23fff&labelColor=%230A66C2&color=%230A66C2" alt="huzaifa-bukhari" height="30"/></a>
-  <a href="https://instagram.com/huzaifa.bukhari_" target="blank"><img align="center" src="https://img.shields.io/badge/huzaifa.bukhari-%23ED1944?style=flat&logo=instagram&logoColor=%23FFFFFF&color=%23ED1944" alt="huzaifa.bukhari_" height="30" /></a>
-</p>
+# 💫 About Me:
+🔭 I’m currently working on Whisper ASR.<br>🤝 I’m looking for help with AI and Machine Learning.<br>🌱 I’m currently learning LLMs.<br>📫 Reach me at: huzbuk@gmail.com<br>📄 Learn about my experiences [here](https://drive.google.com/file/d/1q8cZrs0bOFjURXJUSzbS0RiZTsAdfDTY/view?usp=sharing)
 
 
 
-<h3 align="center">Frameworks and Libraries</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/vite-%23646CFF?style=flat&logo=vite&logoColor=%23FFFFFF&labelColor=%23646CFF&color=%230F0F11" alt="vite" width="70" height="30"/>
-  <img src="https://img.shields.io/badge/Angular-%23646CFF?style=flat&logo=angular&logoColor=%23FFFFFF&labelColor=%23DD0031&color=%230F0F11" alt="angular" width="90" height="30"/>
-  <img src="https://img.shields.io/badge/React.Js-%2361DAFB?style=flat&logo=react&labelColor=black" alt="react" width="90" height="30"/>
-  <img src="https://img.shields.io/badge/Node.Js-%23339933?style=flat&logo=node.js&logoColor=%23FFFFFF&labelColor=%23339933&color=%230F0F11" alt="nodejs" width="90" height="30"/>
-  <img src="https://img.shields.io/badge/Flask-%23000000?style=flat&logo=flask&logoColor=%23FFFFFF&labelColor=%23000000&color=%23FFF" alt="flask" width="90" height="30"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=%23FFFFFF&labelColor=%2302569B&color=%23230F0F11" alt="flutter" width="90" height="30"/>
-  <img src="https://img.shields.io/badge/express-%2302569B?style=flat&logo=express&labelColor=%23000000&color=%23230F0F11" alt="express" width="90" height="30"/>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huzaifa.bukhari_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaifa-bukhari-link) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/huzbuk) 
 
-<h3 align="center">Databases</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-%2302569B?style=flat&logo=mongodb&logoColor=%23fff&labelColor=%2347A248&color=%23230F0F11" alt="mongodb" width="90" height="30"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=%23fff&labelColor=%234479A1&color=%23230F0F11" alt="mysql" width="90" height="30"/>
-</p>
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=huzaifa21-glitch&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=huzaifa21-glitch&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa21-glitch&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23000&labelColor=%23F7DF1E&color=%23230F0F11" alt="javascript" width="110" height="30"/>
-  <img src="https://img.shields.io/badge/Java-%23%23000?style=flat&color=%23FC4C02" alt="java" width="60" height="30"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=%23fff&labelColor=%233776AB&color=%23230F0F11" alt="python" width="90" height="30"/>
-  <img src="https://img.shields.io/badge/C-%233776AB?style=flat&logoColor=%23fff&color=%23A8B9CC" alt="c" width="30" height="30"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=huzaifa21-glitch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=huzaifa21-glitch&icon=8&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
