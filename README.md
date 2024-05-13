@@ -1,4 +1,4 @@
-# 💫 Hey! Huzaifa Here:
+# 💫 Hey! Huzaifa Here,
 🔭 I’m currently working on Whisper ASR.<br>🤝 I’m looking for help with AI and Machine Learning.<br>🌱 I’m currently learning LLMs.<br>📫 Reach me at: huzbuk@gmail.com<br>📄 Learn about my experiences [here](https://drive.google.com/file/d/1q8cZrs0bOFjURXJUSzbS0RiZTsAdfDTY/view?usp=sharing)
 
 
