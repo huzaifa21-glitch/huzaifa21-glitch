@@ -1,7 +1,7 @@
 # 💫 Hey! Huzaifa Here,
 🔭 I’m currently working on Whisper ASR.<br>🤝 I’m looking for help with AI and Machine Learning.<br>🌱 I’m currently learning LLMs.<br>📫 Reach me at: huzbuk@gmail.com<br>📄 Learn about my experiences [here](https://drive.google.com/file/d/1q8cZrs0bOFjURXJUSzbS0RiZTsAdfDTY/view?usp=sharing)
 
-
+ok
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huzaifa.bukhari_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaifa-bukhari-link) 
